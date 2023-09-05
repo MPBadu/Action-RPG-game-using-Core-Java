@@ -1,3 +1,4 @@
 # Action-RPG-game-using-Core-Java
-Autthor- Manoj Badu
+This my gaming project in java
+Author- Manoj Badu
 
